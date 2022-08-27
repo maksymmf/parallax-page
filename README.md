@@ -1,1 +1,2 @@
-# parallax-page with minimum code approach!
+# parallax-page 
+Parallax page with minimum code approach!
